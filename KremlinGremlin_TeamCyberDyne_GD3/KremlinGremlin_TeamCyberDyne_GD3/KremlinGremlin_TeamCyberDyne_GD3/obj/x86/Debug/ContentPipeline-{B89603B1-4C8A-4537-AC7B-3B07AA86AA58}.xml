@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{B89603B1-4C8A-4537-AC7B-3B07AA86AA58}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Michael\Source\Repos\TeamCyberDyne\KremlinGremlin_TeamCyberDyne_GD3\KremlinGremlin_TeamCyberDyne_GD3\KremlinGremlin_TeamCyberDyne_GD3Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Michael\Source\Repos\TeamCyberDyne\KremlinGremlin_TeamCyberDyne_GD3\KremlinGremlin_TeamCyberDyne_GD3\KremlinGremlin_TeamCyberDyne_GD3\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Michael\Source\Repos\TeamCyberDyne\KremlinGremlin_TeamCyberDyne_GD3\KremlinGremlin_TeamCyberDyne_GD3\KremlinGremlin_TeamCyberDyne_GD3\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Michael\Source\Repos\TeamCyberDyne\KremlinGremlin_TeamCyberDyne_GD3\KremlinGremlin_TeamCyberDyne_GD3\KremlinGremlin_TeamCyberDyne_GD3\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-02-21T03:00:59.1824007+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
